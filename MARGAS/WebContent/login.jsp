@@ -19,7 +19,7 @@ out.print("Estado: "+msg);
 %>
 </b>
 <font face="arial" size=2 COLOR="#FFFFFF">
-<FORM ACTION=Buscar_usuario METHOD=post>
+<FORM ACTION=buscar_usuario METHOD=post>
 <table border="1" cellspacing=0 cellpading=0>
 <td>Usuario..:</td><td><INPUT TYPE=text NAME=usuario size="23" required></td>
 </tr>
